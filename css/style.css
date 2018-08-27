@@ -1,0 +1,34 @@
+.header {
+	width: 100%;
+	height: : 100%;
+	background-color: #F78080;
+}
+
+body {
+	background-color: #F1F1F1;
+}
+.heading1 {
+	float: right;
+	margin-top: 10px;
+	margin-right: 150px;
+	height: 55px;
+	width: 65px;
+}
+
+.heading2 {
+	float: left;
+	margin-top : 10px;
+	margin-left : 150px;
+	width : 50px;
+	height : 50px;
+}
+
+h1{
+	text-align: center;
+	font-size: 45px;
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
+}
